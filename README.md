@@ -4,8 +4,11 @@ My name is Borja Rivera and I´m a __Full Stack Developer__
 
 ## About me
 
-I became a web developer in 2021. Previously, I've worked as a _journalist_ and I studied an Economic News postgraduate. 
-Also, I've been studying laws and _accountability_ to become an auditor for the public administration/government in Spain. However, during the 2020 COVID19 lockdown I decided to switch careers and become a developer. The reason behind it is that I'm a curious guy who enjoys looking for better ways to do anything around my life and circumstances. 
+I became a web developer in 2021. Previously, I've worked as a _journalist_ and I studied an Economic News postgraduate.
+Also, I've been studying _laws_ and _accountability_ to become an auditor for the public administration/government in Spain.
+
+However, during the 2020 COVID19 lockdown I decided to switch careers and become a developer. The reason behind it is that I'm a curious guy who enjoys looking for better ways to do anything around my life and circumstances.
+
 Thus, after accomplishing a __Full Stack Web Bootcamp at The Bridge (Madrid)__ I finally fell in love with the code ❤️.
 I´m spanish and based in Madrid, but i´m able to move to other locations.
 
