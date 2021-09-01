@@ -24,7 +24,6 @@ I´m spanish and based in Madrid, but i´m able to move to other locations.
 + HTML5 & CSS3
 + Version-Control with GitHub
 + REST architecture & RESTful APIs
-+ Linux environment
 
 ## I'm learning...
 
@@ -52,5 +51,3 @@ I´m spanish and based in Madrid, but i´m able to move to other locations.
 🔭 My [LinkedIn](https://www.linkedin.com/in/borjarivera/)
 
 🤜🏻 Also you can check my [Codewars]https://www.codewars.com/users/borj4 achieved katas
-
-
