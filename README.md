@@ -50,4 +50,4 @@ I´m spanish and based in Madrid, but i´m able to move to other locations.
 
 🔭 My [LinkedIn](https://www.linkedin.com/in/borjarivera/)
 
-🤜🏻 Also you can check my [Codewars]https://www.codewars.com/users/borj4 achieved katas
+🤜🏻 Also you can check my [Codewars](https://www.codewars.com/users/borj4) achieved katas
