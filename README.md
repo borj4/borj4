@@ -18,10 +18,12 @@ I´m spanish and based in Madrid, but i´m able to move to other locations.
 + Typescript
 + HTML5 & CSS3
 + ReactJs
++ Sass
 + NodeJs
 + NestJs
 + ExpressJs
 + JWT, OAuth, Auth0, Passport
++ Websocket
 + NoSQL (MongoDB & Mongoose)
 + SQL (MySQL, PostgreSQL)
 + Firebase (Realtime Database, Cloud Storage)
@@ -30,7 +32,7 @@ I´m spanish and based in Madrid, but i´m able to move to other locations.
 + REST architecture & RESTful APIs
 
 ## I'm learning...
-
++ Redux
 + DevOps basics w/ Docker, Kubernetes, Jenkins
 + Design patterns
 
