@@ -15,19 +15,22 @@ I´m spanish and based in Madrid, but i´m able to move to other locations.
 ## I'm feel confortable with...
 
 + JavaScript
++ Typescript
++ HTML5 & CSS3
 + ReactJs
 + NodeJs
++ NestJs
 + ExpressJs
++ JWT, OAuth, Auth0, Passport
 + NoSQL (MongoDB & Mongoose)
-+ SQL (MySQL)
-+ Firebase (Realtime Database)
-+ HTML5 & CSS3
++ SQL (MySQL, PostgreSQL)
++ Firebase (Realtime Database, Cloud Storage)
++ Testing with Cypress & Jest
 + Version-Control with GitHub
 + REST architecture & RESTful APIs
 
 ## I'm learning...
 
-+ Testing with Cypress & Jest
 + DevOps basics w/ Docker, Kubernetes, Jenkins
 + Design patterns
 
